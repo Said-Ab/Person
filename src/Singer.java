@@ -1,5 +1,5 @@
 public class Singer extends Person{
-    String bandName;
+    private String bandName;
 
     public Singer(){}
 

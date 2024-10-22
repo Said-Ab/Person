@@ -1,5 +1,5 @@
 public class Dancer extends Person{
-    String groupName;
+    private String groupName;
     public Dancer(){}
 
     public Dancer(String name, String designation, String groupName) {

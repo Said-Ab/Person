@@ -1,5 +1,5 @@
 public class Programmer extends Person{
-    String companyName;
+    private String companyName;
 
     public Programmer(){}
 
